@@ -1,2 +1,2 @@
-# pixelhub
+# PixelHub
 BungeeCord Hub Plugin
