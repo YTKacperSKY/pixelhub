@@ -1,0 +1,2 @@
+# pixelhub
+BungeeCord Hub Plugin
